@@ -30,6 +30,7 @@ Event Listeners|javax.servlet.http.HttpSessionBindingListener
 Session|javax.servlet.http.HttpSession
 Request|javax.servlet.http.HttpServletRequest
 Response|javax.servlet.http.HttpServletResponse
+applicationContext|xxxx
 
 ## 版本
 
